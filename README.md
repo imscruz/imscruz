@@ -44,7 +44,7 @@ const developer = {
 }
 ```
 
-## 🎯 2024 Goals
+## 🎯 2026 Goals
 - Write a exploit
 - Find a bug on Vanguard
 - hackerone.com 1000 +rep
