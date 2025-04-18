@@ -1,6 +1,6 @@
 # 👾 Hello World, I'm imscruz!
 
-<img align="right" src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="300">
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhjMnhxbmZqa2IyaG1kbGk0ODlpbGxnY3N2M3I2OTQxMGdhdHc2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWtrfM0yJbjLhtu/giphy.gif" width="300">
 
 ## 🤔 Who Am I?
 A developer who believes that any code that works is good code, and good code that works is even better. Currently in a committed relationship with Visual Studio Code 💻
