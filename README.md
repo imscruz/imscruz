@@ -17,7 +17,18 @@ A developer who believes that any code that works is good code, and good code th
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📊 Stats for Nerds
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imscruz&show_icons=true&theme=synthwave)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imscruz&theme=midnight-purple&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imscruz&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imscruz&layout=compact&theme=midnight-purple&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imscruz&theme=darkhub&no-frame=true&row=1" />
+</p>
 
 ## 🚀 Featured Projects
 - 🔥 [Bim] - This project will be rework all time
