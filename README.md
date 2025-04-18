@@ -8,7 +8,6 @@ A developer who believes that any code that works is good code, and good code th
 ## 💻 Tech Stack
 - 🌐 Frontend: `git commit -m "I hope this works"`
 - 🛠 Backend: `try { sleep.exe } catch { coffee.drink() }`
-- 📱 Mobile: `while(!success) { try_again() }`
 - 🤖 AI/ML: `if(brain.exists()) { brain.use() }`
 
 ## 🛠 Languages & Tools
@@ -16,40 +15,32 @@ A developer who believes that any code that works is good code, and good code th
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ## 📊 Stats for Nerds
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imscruz&show_icons=true&theme=synthwave)
 
 ## 🚀 Featured Projects
-- 🎮 [Project 1] - Because who needs sleep when you have debugging?
-- 🤖 [Project 2] - 60% of the time, it works every time
-- 🌌 [Project 3] - The one where I learned that semicolons matter
+- 🔥 [Bim] - This project will be rework all time
+- 🤖 [FakeConc] - Finished no update
+- 🌌 [KYSClient] - Client for crash NET
 
 ## 📫 How to reach me (if the code allows)
 ```js
 const developer = {
-    discord: "your_discord",
-    twitter: "@your_twitter",
-    email: "coffee.lover@example.com",
-    status: "In a relationship with my debugger",
-    location: "Between keyboard and chair"
+    discord: "@iletisim",
+    status: "Free",
+    location: "Turkey"
 }
 ```
 
 ## 🎯 2024 Goals
-- Write code that doesn't need comments
-- Master the art of rubber duck debugging
-- Learn to exit vim without googling
-- Write documentation (just kidding)
-- Build something that doesn't break production
+- Write a exploit
+- Find a bug on Vanguard
+- hackerone.com 1000 +rep
+- find a vulnarebility on java
 ## 📈 Daily Runtime
 ```text
-Coding          ███████████████████░   95%
-Debugging       ████████████████████   100%
-Stack Overflow  ██████████████████░░   90%
-Coffee Intake   ████████████████████   100%
-Documentation   █░░░░░░░░░░░░░░░░░░░   5%
- ```
+Coding         XXXX###################    %11
+```
 
-⭐️ From imscruz (powered by coffee and Stack Overflow)
+⭐️ From imscruz (powered by Overflow Exploit)
