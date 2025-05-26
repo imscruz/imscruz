@@ -7,4 +7,5 @@ A developer who believes that any code that works is good code, and good code th
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=imscruz&show_icons=true&theme=midnight-purple&hide_border=true" />
 
-</p>
+### 👀 Visit count
+<img src="https://count.getloli.com/get/@imscruz?theme=gelbooru-h" />
