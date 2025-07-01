@@ -8,4 +8,4 @@ A developer who believes that any code that works is good code, and good code th
   <img src="https://github-readme-stats.vercel.app/api?username=imscruz&show_icons=true&theme=midnight-purple&hide_border=true" />
 
 ### 👀 Visit count
-<img src="https://count.getloli.com/get/@imscruz?theme=gelbooru-h" />
+<img src="https://count.getloli.com/get/@imscruz?theme=rule34" />
