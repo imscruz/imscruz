@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="40" viewBox="0 0 220 40">
+  <style>
+    .pixel-text {
+      font-family: 'Press Start 2P', monospace;
+      font-size: 16px;
+      font-weight: bold;
+      image-rendering: pixelated;
+    }
+    .blue { fill: #1ca9c9; }
+    .pink { fill: #d870ad; }
+    .purple { fill: #a64ca6; }
+  </style>
+  <text x="0" y="30" class="pixel-text blue">Hey,</text>
+  <text x="70" y="30" class="pixel-text pink">I'm</text>
+  <text x="110" y="30" class="pixel-text purple">Scruz!</text>
+</svg>
