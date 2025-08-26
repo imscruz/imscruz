@@ -23,7 +23,7 @@
             -webkit-background-clip: text;
             background-clip: text;
             background-size: 200% 120%;
-            animation: home_sidebar_title_masked_animation__WanzD 3s linear infinite
+            animation: home_sidebar_title_masked_animation__WanzD 8s linear infinite
         }
 
         h2 {
