@@ -5,6 +5,7 @@
 A young developer capable of reading any code. Loving NotePad++
 <p align="left">
 <span title="cimer@disroot.org"></span>
+<span title="session:051eca3974764e1710cd8addaccbb3345e3a89e0986807688a5d21e7611d0d835f"></span>
 
 ### 👀 Visit count
 [<img align=left src="https://count.getloli.com/@imscruz?name=imscruz&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1.2&pixelated=1&darkmode=0">](https://count.getloli.com/@imscruz?name=imscruz&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1.6&pixelated=1&darkmode=0)
