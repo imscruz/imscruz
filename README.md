@@ -9,5 +9,5 @@ A young developer capable of reading any code. Loving NotePad++
 <p align="left">
 
 ### 👀 Visit count
-<img align="left" src="https://count.getloli.com/@imscruz?name=imscruz&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1.2&pixelated=1&darkmode=0">
+<img align="left" src="https://count.getloli.com/@imscruz?name=imscruz&theme=sketch-2&padding=7&offset=0&align=top&scale=1.2&pixelated=1&darkmode=0">
 
